@@ -13,6 +13,5 @@ served locally at: 127.0.0.1:5500
 A very simple python blockchain.
 DOCS::
 
-Rest Api:
-
-Define a mining procedure:`curl http://127.0.0.1:5000/mine_block`
+Rest Api
+mining a block:`curl http://127.0.0.1:5000/mine_block`
